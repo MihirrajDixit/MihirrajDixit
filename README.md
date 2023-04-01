@@ -4,29 +4,16 @@
 
 <h2 align="center">Welcome to my github profile👋</h2>
 
-You can find me in the links below👇
+📬 You can find me in the links below👇
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/mihirraj-dixit/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=Immv-PcAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google_Scholar-white?style=for-the-badge&logo=GoogleScholar&logoColor=blue" alt="Scholar"/>
-  </a>
-  <a href="https://twitter.com/mihirrajdixit">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://medium.com/@mihirrajdixit">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="dixitmn6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="mihirrajdixit.github.io">
-    <img src="https://img.shields.io/badge/Personal_Website-darkgreen?style=for-the-badge&logo=Personio&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirraj-dixit/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-white?style=for-the-badge&logo=GoogleScholar&logoColor=blue)](https://scholar.google.com/citations?user=Immv-PcAAAAJ&hl=en)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mihirrajdixit)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mihirrajdixit)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dixitmn6@gmail.com)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-darkgreen?style=for-the-badge&logo=Personio&logoColor=white)](mihirrajdixit.github.io)
 
+  
 ## Some information about me:
 ### Professional Roles (Performed till date):
 - Strategic Planning
