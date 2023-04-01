@@ -34,5 +34,7 @@
 
 
 ------
-<img align="center" src="https://img.shields.io/badge/UTC_Now-grey?style=flat-square&logo=Timescale"> - <img align="center" src="https://jojoee.jojoee.com/api/utcnow?refresh"><br />
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=MihirrajDixit.MihirrajDixit&left_text=Profile%20Views">
+<img align="center" src="https://img.shields.io/badge/UTC_Now-grey?style=flat-square&logo=Timescale"> - <img align="center" src="https://jojoee.jojoee.com/api/utcnow?refresh"> | <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=MihirrajDixit.MihirrajDixit&left_text=Profile%20Views">
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihirrajDixit&layout=compact)](https://github.com/MihirrajDixit/github-readme-stats) -->
