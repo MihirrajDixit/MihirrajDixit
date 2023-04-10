@@ -11,7 +11,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mihirrajdixit)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mihirrajdixit)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dixitmn6@gmail.com)
-[![Personal Website](https://img.shields.io/badge/Personal_Website-darkgreen?style=for-the-badge&logo=Personio&logoColor=white)](https://mihirrajdixit.github.io)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-darkgreen?style=for-the-badge&logo=Personio&logoColor=white)](https://mihirrajdixit.me)
 
   
 ## Some information about me:
